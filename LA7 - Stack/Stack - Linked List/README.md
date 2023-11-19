@@ -10,51 +10,51 @@ Remember that there are two pairs (or options) in implementing the stack's push 
 
 ### Sample Output 1
 Enter op: a 1 </br>
-Enter op: a 3
-Enter op: a 5
-Enter op: a 7
-Enter op: a 9
-Enter op: r
-Removed 9
-Enter op: x
-Exiting
+Enter op: a 3 </br>
+Enter op: a 5 </br>
+Enter op: a 7 </br>
+Enter op: a 9 </br>
+Enter op: r </br>
+Removed 9 </br>
+Enter op: x </br>
+Exiting </br>
 
 ### Sample Output 2
-Enter op: a 2
-Enter op: a 4
-Enter op: a 6
-Enter op: a 8
-Enter op: a 10
-Enter op: a 12
-Enter op: r
-Removed 12
-Enter op: r
-Removed 10
-Enter op: r
-Removed 8
-Enter op: x
+Enter op: a 2 </br>
+Enter op: a 4 </br>
+Enter op: a 6 </br>
+Enter op: a 8 </br>
+Enter op: a 10 </br>
+Enter op: a 12 </br>
+Enter op: r </br>
+Removed 12 </br>
+Enter op: r </br>
+Removed 10 </br>
+Enter op: r </br>
+Removed 8 </br>
+Enter op: x </br>
 Exiting
 
 ### Sample Output 3
-Enter op: a 9
-Enter op: a 7
-Enter op: a 5
-Enter op: r
-Removed 5
-Enter op: a 4
-Enter op: a 2
-Enter op: r
-Removed 2
-Enter op: r
-Removed 4
-Enter op: r
-Removed 7
-Enter op: r
-Removed 9
-Enter op: a 5
-Enter op: a 7
-Enter op: a 12
-Enter op: r
-Removed 12
+Enter op: a 9 </br>
+Enter op: a 7 </br>
+Enter op: a 5 </br>
+Enter op: r </br>
+Removed 5 </br>
+Enter op: a 4 </br>
+Enter op: a 2 </br>
+Enter op: r </br>
+Removed 2 </br>
+Enter op: r </br>
+Removed 4 </br>
+Enter op: r </br>
+Removed 7 </br>
+Enter op: r </br>
+Removed 9 </br>
+Enter op: a 5 </br>
+Enter op: a 7 </br>
+Enter op: a 12 </br>
+Enter op: r </br>
+Removed 12 </br>
 Enter op: x
 Exiting
